@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marta-probierz
 - 👀 I’m interested in the process of creating, as the real event
-- 🌱 I’m currently learning frontend development
 - 💞️ I’m looking forward to collaborating with you ☺
 - 📫 How to reach me marta.anna.probierz@gmail.com
 
